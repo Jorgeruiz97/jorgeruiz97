@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
+![chrome dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
 - 🔭 I’m currently working on: Custom dashboards for graph data structures and time series analysis with DISA
 - 🌱 I’m currently learning: github actions and solidity
 - 👯 I’m looking to collaborate on: Machine learning in the fiancial markets research
